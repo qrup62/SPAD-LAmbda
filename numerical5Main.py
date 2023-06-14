@@ -13,7 +13,7 @@ import timeit
 ## Initial condition
 # creat a lattice N*N were each particale have 
 # spin up (1) or down(-1) randomly
-N=32
+N=36
 
 
 ## Dynamic of the lattice 
